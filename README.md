@@ -7,6 +7,8 @@ After creating chatbot.ipynb
 
 Install dependencies:
 bash(pip install nltk scikit-learn flask)
+
+
 Run the Flask application:
 bash(python chatbot.ipynb)
 
